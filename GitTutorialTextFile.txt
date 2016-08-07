@@ -1,8 +1,1 @@
-first commit overall-first commit in master. second commit overall-first commit in releasea. third commit overall-second commit in releasea. fourth commit overall-third commit in releasea.eigth commit overall-first commit in featurec. ninth commit overall-second commit in featurec. tenth commit overall-third commit in featurec.
-
-eigth commit overall-first commit in featurec.
-ninth commit overall-second commit in featurec.
-tenth commit overall-third commit in featurec.
-second commit overall-first commit in releasea.
-third commit overall-second commit in releasea.
-fourth commit overall-third commit in releasea.
+first commit overall-first commit in master.
